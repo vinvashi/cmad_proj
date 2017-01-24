@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.glarimy</groupId>
+	<artifactId>rendezvous</artifactId>
+	<version>1.0.0</version>
+	<packaging>war</packaging>
+	<name>Rendezvous Template</name>
+	<description>Template for the Rendezvous Web Interface</description>
+	<url>https://github.com/glarimy/glarimy-jaxrs-jersey-jetty</url>
+	<organization>
+		<name>Glarimy Technology Services</name>
+		<url>www.glarimy.com</url>
+	</organization>
+	<developers>
+		<developer>
+			<name>Krishna Mohan Koyya</name>
+			<email>krishna@glarimy.com</email>
+			<organization>Glarimy Technology Services</organization>
+		</developer>
+	</developers>
+</project>
